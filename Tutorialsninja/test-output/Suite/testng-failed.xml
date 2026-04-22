@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <parameter name="search" value="mac"/>
+    <parameter name="invalidsearch" value="xyz123"/>
+    <classes>
+      <class name="com.tests.TutorialNinjaDemo">
+        <methods>
+          <include name="searchInvalidProduct" invocation-numbers="0"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="validLogin"/>
+          <include name="searchValidProduct"/>
+        </methods>
+      </class> <!-- com.tests.TutorialNinjaDemo -->
+      <class name="com.tests.Log4jDemo">
+        <methods>
+          <include name="setup"/>
+          <include name="invalidLogin"/>
+          <include name="tearDown"/>
+          <include name="searchInvalidProduct"/>
+          <include name="searchValidProduct"/>
+          <include name="validLogin"/>
+        </methods>
+      </class> <!-- com.tests.Log4jDemo -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

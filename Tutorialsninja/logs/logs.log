@@ -1,0 +1,381 @@
+[DEBUG] 2026-04-22 11:54:12.120 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 11:54:12.125 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 11:54:12.126 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 11:54:12.127 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2026-04-22 11:54:17.728 [TestNG-PoolService-1] Log4jDemo - Launching browser & Navigating to tutoriols ninja
+[INFO ] 2026-04-22 11:54:18.283 [TestNG-PoolService-2] Log4jDemo - Launching browser & Navigating to tutoriols ninja
+[INFO ] 2026-04-22 11:54:29.595 [main] Log4jDemo - Launching browser & Navigating to tutoriols ninja
+[DEBUG] 2026-04-22 11:54:31.013 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 11:54:31.014 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 11:54:31.015 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 11:54:31.021 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2026-04-22 11:54:34.443 [TestNG-PoolService-1] Log4jDemo - Launching browser & Navigating to tutoriols ninja
+[INFO ] 2026-04-22 11:54:38.820 [TestNG-PoolService-1] Log4jDemo - Attempting login with email:jennysenthil123@gmail.com
+[DEBUG] 2026-04-22 12:02:13.834 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 12:02:13.843 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 12:02:13.848 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 12:02:13.854 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2026-04-22 12:02:17.528 [TestNG-PoolService-2] Log4jDemo - Launching browser & Navigating to tutoriols ninja
+[INFO ] 2026-04-22 12:02:17.528 [TestNG-PoolService-1] Log4jDemo - Launching browser & Navigating to tutoriols ninja
+[WARN ] 2026-04-22 12:02:20.110 [TestNG-PoolService-1] Log4jDemo - Login failed for email:jennysenthil123@gmail
+[INFO ] 2026-04-22 12:02:20.561 [TestNG-PoolService-1] Log4jDemo - Browser closed for an email.
+[WARN ] 2026-04-22 12:02:20.962 [TestNG-PoolService-2] Log4jDemo - Login failed for email:senthiljenny2gmail.com
+[INFO ] 2026-04-22 12:02:21.644 [TestNG-PoolService-2] Log4jDemo - Browser closed for an email.
+[INFO ] 2026-04-22 12:02:24.572 [main] Log4jDemo - Launching browser & Navigating to tutoriols ninja
+[INFO ] 2026-04-22 12:02:25.529 [main] Log4jDemo - Browser closed for an email.
+[DEBUG] 2026-04-22 12:02:25.547 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 12:02:25.549 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 12:02:25.553 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 12:02:25.554 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2026-04-22 12:02:28.436 [TestNG-PoolService-1] Log4jDemo - Launching browser & Navigating to tutoriols ninja
+[INFO ] 2026-04-22 12:02:29.230 [TestNG-PoolService-1] Log4jDemo - Attempting login with email:jennysenthil123@gmail.com
+[INFO ] 2026-04-22 12:02:30.975 [TestNG-PoolService-1] Log4jDemo - Browser closed for an email.
+[DEBUG] 2026-04-22 12:05:53.123 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 12:05:53.129 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 12:05:53.133 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 12:05:53.138 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2026-04-22 12:05:57.147 [TestNG-PoolService-2] Log4jDemo - Launching browser & Navigating to tutoriols ninja
+[INFO ] 2026-04-22 12:05:57.147 [TestNG-PoolService-1] Log4jDemo - Launching browser & Navigating to tutoriols ninja
+[WARN ] 2026-04-22 12:06:01.916 [TestNG-PoolService-2] Log4jDemo - Login failed for email:senthiljenny2gmail.com
+[WARN ] 2026-04-22 12:06:02.243 [TestNG-PoolService-1] Log4jDemo - Login failed for email:jennysenthil123@gmail
+[INFO ] 2026-04-22 12:06:02.808 [TestNG-PoolService-2] Log4jDemo - Browser closed for an email.
+[INFO ] 2026-04-22 12:06:02.813 [TestNG-PoolService-1] Log4jDemo - Browser closed for an email.
+[INFO ] 2026-04-22 12:06:06.288 [main] Log4jDemo - Launching browser & Navigating to tutoriols ninja
+[INFO ] 2026-04-22 12:06:07.439 [main] Log4jDemo - Browser closed for an email.
+[DEBUG] 2026-04-22 12:06:07.446 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 12:06:07.447 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 12:06:07.448 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 12:06:07.448 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2026-04-22 12:06:09.951 [TestNG-PoolService-1] Log4jDemo - Launching browser & Navigating to tutoriols ninja
+[INFO ] 2026-04-22 12:06:12.016 [TestNG-PoolService-1] Log4jDemo - Attempting login with email:jennysenthil123@gmail.com
+[INFO ] 2026-04-22 12:06:12.585 [TestNG-PoolService-1] Log4jDemo - Browser closed for an email.
+[DEBUG] 2026-04-22 12:08:07.166 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 12:08:07.171 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 12:08:07.172 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 12:08:07.174 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2026-04-22 12:08:11.031 [TestNG-PoolService-2] Log4jDemo - Launching browser & Navigating to tutoriols ninja
+[INFO ] 2026-04-22 12:08:11.080 [TestNG-PoolService-1] Log4jDemo - Launching browser & Navigating to tutoriols ninja
+[WARN ] 2026-04-22 12:08:14.454 [TestNG-PoolService-2] Log4jDemo - Login failed for email:senthiljenny2gmail.com
+[WARN ] 2026-04-22 12:08:14.713 [TestNG-PoolService-1] Log4jDemo - Login failed for email:jennysenthil123@gmail
+[INFO ] 2026-04-22 12:08:15.312 [TestNG-PoolService-1] Log4jDemo - Browser closed for an email.
+[INFO ] 2026-04-22 12:08:15.392 [TestNG-PoolService-2] Log4jDemo - Browser closed for an email.
+[INFO ] 2026-04-22 12:08:18.651 [main] Log4jDemo - Launching browser & Navigating to tutoriols ninja
+[INFO ] 2026-04-22 12:08:19.663 [main] Log4jDemo - Browser closed for an email.
+[DEBUG] 2026-04-22 12:08:19.670 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 12:08:19.671 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 12:08:19.672 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 12:08:19.673 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2026-04-22 12:08:22.467 [TestNG-PoolService-1] Log4jDemo - Launching browser & Navigating to tutoriols ninja
+[INFO ] 2026-04-22 12:08:23.176 [TestNG-PoolService-1] Log4jDemo - Attempting login with email:jennysenthil123@gmail.com
+[INFO ] 2026-04-22 12:08:24.516 [TestNG-PoolService-1] Log4jDemo - Browser closed for an email.
+[DEBUG] 2026-04-22 12:20:04.640 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 12:20:04.645 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 12:20:04.647 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 12:20:04.648 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2026-04-22 12:20:08.389 [TestNG-PoolService-1] Log4jDemo - Launching browser & Navigating to tutoriols ninja
+[INFO ] 2026-04-22 12:20:09.598 [TestNG-PoolService-2] Log4jDemo - Launching browser & Navigating to tutoriols ninja
+[WARN ] 2026-04-22 12:20:15.071 [TestNG-PoolService-1] Log4jDemo - Login failed for email:jennysenthil123@gmail
+[WARN ] 2026-04-22 12:20:15.080 [TestNG-PoolService-2] Log4jDemo - Login failed for email:senthiljenny2gmail.com
+[INFO ] 2026-04-22 12:20:16.495 [TestNG-PoolService-1] Log4jDemo - Browser closed for an email.
+[INFO ] 2026-04-22 12:20:16.555 [TestNG-PoolService-2] Log4jDemo - Browser closed for an email.
+[INFO ] 2026-04-22 12:20:19.377 [main] Log4jDemo - Launching browser & Navigating to tutoriols ninja
+[INFO ] 2026-04-22 12:20:20.902 [main] Log4jDemo - Browser closed for an email.
+[DEBUG] 2026-04-22 12:20:20.932 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 12:20:20.933 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 12:20:20.934 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 12:20:20.935 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2026-04-22 12:20:23.691 [TestNG-PoolService-1] Log4jDemo - Launching browser & Navigating to tutoriols ninja
+[INFO ] 2026-04-22 12:20:24.509 [TestNG-PoolService-1] Log4jDemo - Attempting login with email:jennysenthil123@gmail.com
+[INFO ] 2026-04-22 12:20:25.963 [TestNG-PoolService-1] Log4jDemo - Browser closed for an email.
+[DEBUG] 2026-04-22 12:22:15.277 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 12:22:15.285 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 12:22:15.288 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 12:22:15.289 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2026-04-22 12:22:18.556 [TestNG-PoolService-1] Log4jDemo - Launching browser & Navigating to tutoriols ninja
+[INFO ] 2026-04-22 12:22:19.460 [TestNG-PoolService-2] Log4jDemo - Launching browser & Navigating to tutoriols ninja
+[WARN ] 2026-04-22 12:22:22.299 [TestNG-PoolService-2] Log4jDemo - Login failed for email:senthiljenny2gmail.com
+[INFO ] 2026-04-22 12:22:22.730 [TestNG-PoolService-2] Log4jDemo - Browser closed for an email.
+[WARN ] 2026-04-22 12:22:23.042 [TestNG-PoolService-1] Log4jDemo - Login failed for email:jennysenthil123@gmail
+[INFO ] 2026-04-22 12:22:23.427 [TestNG-PoolService-1] Log4jDemo - Browser closed for an email.
+[INFO ] 2026-04-22 12:22:27.747 [main] Log4jDemo - Launching browser & Navigating to tutoriols ninja
+[INFO ] 2026-04-22 12:22:28.708 [main] Log4jDemo - Browser closed for an email.
+[INFO ] 2026-04-22 12:22:31.888 [main] Log4jDemo - Launching browser & Navigating to tutoriols ninja
+[INFO ] 2026-04-22 12:22:33.087 [main] Log4jDemo - Browser closed for an email.
+[DEBUG] 2026-04-22 12:22:33.099 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 12:22:33.104 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 12:22:33.106 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 12:22:33.108 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2026-04-22 12:22:35.599 [TestNG-PoolService-1] Log4jDemo - Launching browser & Navigating to tutoriols ninja
+[INFO ] 2026-04-22 12:22:36.202 [TestNG-PoolService-1] Log4jDemo - Attempting login with email:jennysenthil123@gmail.com
+[INFO ] 2026-04-22 12:22:38.626 [TestNG-PoolService-1] Log4jDemo - Browser closed for an email.
+[DEBUG] 2026-04-22 12:27:44.199 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 12:27:44.207 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 12:27:44.208 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 12:27:44.210 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2026-04-22 12:27:53.633 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 12:27:53.634 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 12:27:53.636 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 12:27:53.638 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2026-04-22 12:30:47.805 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 12:30:47.811 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 12:30:47.816 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 12:30:47.820 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2026-04-22 12:30:57.225 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 12:30:57.226 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 12:30:57.227 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 12:30:57.228 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2026-04-22 12:33:46.089 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 12:33:46.097 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 12:33:46.103 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 12:33:46.105 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2026-04-22 12:33:54.908 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 12:33:54.909 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 12:33:54.910 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 12:33:54.911 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2026-04-22 12:36:46.474 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 12:36:46.480 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 12:36:46.481 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 12:36:46.483 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2026-04-22 12:36:58.577 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 12:36:58.578 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 12:36:58.583 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 12:36:58.584 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2026-04-22 12:42:05.014 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 12:42:05.022 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 12:42:05.026 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 12:42:05.031 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2026-04-22 12:42:08.768 [TestNG-PoolService-1] Log4jDemo - Launching browser & Navigating to tutoriols ninja
+[INFO ] 2026-04-22 12:42:09.194 [TestNG-PoolService-2] Log4jDemo - Launching browser & Navigating to tutoriols ninja
+[WARN ] 2026-04-22 12:42:14.407 [TestNG-PoolService-2] Log4jDemo - Login failed for email:senthiljenny2gmail.com
+[WARN ] 2026-04-22 12:42:14.766 [TestNG-PoolService-1] Log4jDemo - Login failed for email:jennysenthil123@gmail
+[INFO ] 2026-04-22 12:42:15.358 [TestNG-PoolService-1] Log4jDemo - Browser closed for an email.
+[INFO ] 2026-04-22 12:42:15.702 [TestNG-PoolService-2] Log4jDemo - Browser closed for an email.
+[INFO ] 2026-04-22 12:42:18.426 [main] Log4jDemo - Launching browser & Navigating to tutoriols ninja
+[INFO ] 2026-04-22 12:42:20.015 [main] Log4jDemo - Browser closed for an email.
+[INFO ] 2026-04-22 12:42:22.438 [main] Log4jDemo - Launching browser & Navigating to tutoriols ninja
+[INFO ] 2026-04-22 12:42:23.574 [main] Log4jDemo - Browser closed for an email.
+[DEBUG] 2026-04-22 12:42:23.594 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 12:42:23.595 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 12:42:23.597 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 12:42:23.598 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2026-04-22 12:42:26.043 [TestNG-PoolService-1] Log4jDemo - Launching browser & Navigating to tutoriols ninja
+[INFO ] 2026-04-22 12:42:26.739 [TestNG-PoolService-1] Log4jDemo - Attempting login with email:jennysenthil123@gmail.com
+[INFO ] 2026-04-22 12:42:28.423 [TestNG-PoolService-1] Log4jDemo - Browser closed for an email.
+[DEBUG] 2026-04-22 12:43:15.802 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 12:43:15.810 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 12:43:15.820 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 12:43:15.822 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2026-04-22 12:43:31.560 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 12:43:31.561 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 12:43:31.562 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 12:43:31.563 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2026-04-22 12:45:21.036 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 12:45:21.043 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 12:45:21.047 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 12:45:21.048 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2026-04-22 12:45:25.169 [TestNG-PoolService-2] Log4jDemo - Launching browser & Navigating to tutoriols ninja
+[INFO ] 2026-04-22 12:45:25.242 [TestNG-PoolService-1] Log4jDemo - Launching browser & Navigating to tutoriols ninja
+[WARN ] 2026-04-22 12:45:28.712 [TestNG-PoolService-2] Log4jDemo - Login failed for email:senthiljenny2gmail.com
+[INFO ] 2026-04-22 12:45:29.335 [TestNG-PoolService-2] Log4jDemo - Browser closed for an email.
+[WARN ] 2026-04-22 12:45:30.662 [TestNG-PoolService-1] Log4jDemo - Login failed for email:jennysenthil123@gmail
+[INFO ] 2026-04-22 12:45:31.050 [TestNG-PoolService-1] Log4jDemo - Browser closed for an email.
+[INFO ] 2026-04-22 12:45:34.372 [main] Log4jDemo - Launching browser & Navigating to tutoriols ninja
+[INFO ] 2026-04-22 12:45:35.344 [main] Log4jDemo - Browser closed for an email.
+[INFO ] 2026-04-22 12:45:37.433 [main] Log4jDemo - Launching browser & Navigating to tutoriols ninja
+[INFO ] 2026-04-22 12:45:38.808 [main] Log4jDemo - Browser closed for an email.
+[DEBUG] 2026-04-22 12:45:38.826 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 12:45:38.827 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 12:45:38.828 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 12:45:38.828 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2026-04-22 12:45:42.284 [TestNG-PoolService-1] Log4jDemo - Launching browser & Navigating to tutoriols ninja
+[INFO ] 2026-04-22 12:45:44.176 [TestNG-PoolService-1] Log4jDemo - Attempting login with email:jennysenthil123@gmail.com
+[INFO ] 2026-04-22 12:45:44.700 [TestNG-PoolService-1] Log4jDemo - Browser closed for an email.
+[DEBUG] 2026-04-22 12:52:42.767 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 12:52:42.776 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 12:52:42.780 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 12:52:42.784 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2026-04-22 12:53:02.290 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 12:53:02.292 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 12:53:02.293 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 12:53:02.294 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2026-04-22 12:56:31.758 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 12:56:31.766 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 12:56:31.767 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 12:56:31.773 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2026-04-22 12:57:09.925 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 12:57:09.956 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 12:57:09.972 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 12:57:09.980 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2026-04-22 12:57:10.670 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 12:57:10.674 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 12:57:10.722 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 12:57:10.736 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2026-04-22 12:57:13.036 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 12:57:13.036 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 12:57:13.036 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 12:57:13.036 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2026-04-22 14:08:30.292 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 14:08:30.300 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 14:08:30.302 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 14:08:30.306 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2026-04-22 14:08:38.560 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 14:08:38.561 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 14:08:38.562 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 14:08:38.562 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2026-04-22 14:16:58.421 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 14:16:58.424 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 14:16:58.426 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 14:16:58.427 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2026-04-22 14:17:12.395 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 14:17:12.396 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 14:17:12.397 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 14:17:12.397 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2026-04-22 14:17:16.263 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 14:17:16.264 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 14:17:16.265 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 14:17:16.265 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2026-04-22 14:17:18.834 [TestNG-PoolService-1] Log4jDemo - Launching browser & Navigating to tutoriols ninja
+[INFO ] 2026-04-22 14:17:18.941 [TestNG-PoolService-2] Log4jDemo - Launching browser & Navigating to tutoriols ninja
+[WARN ] 2026-04-22 14:17:20.905 [TestNG-PoolService-2] Log4jDemo - Login failed for email:senthiljenny2gmail.com
+[WARN ] 2026-04-22 14:17:20.997 [TestNG-PoolService-1] Log4jDemo - Login failed for email:jennysenthil123@gmail
+[INFO ] 2026-04-22 14:17:21.126 [TestNG-PoolService-2] Log4jDemo - Browser closed for an email.
+[INFO ] 2026-04-22 14:17:21.157 [TestNG-PoolService-1] Log4jDemo - Browser closed for an email.
+[INFO ] 2026-04-22 14:17:23.490 [main] Log4jDemo - Launching browser & Navigating to tutoriols ninja
+[INFO ] 2026-04-22 14:17:24.286 [main] Log4jDemo - Browser closed for an email.
+[INFO ] 2026-04-22 14:17:26.448 [main] Log4jDemo - Launching browser & Navigating to tutoriols ninja
+[INFO ] 2026-04-22 14:17:27.438 [main] Log4jDemo - Browser closed for an email.
+[DEBUG] 2026-04-22 14:17:27.443 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 14:17:27.444 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 14:17:27.445 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 14:17:27.445 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2026-04-22 14:17:29.851 [TestNG-PoolService-1] Log4jDemo - Launching browser & Navigating to tutoriols ninja
+[INFO ] 2026-04-22 14:17:30.500 [TestNG-PoolService-1] Log4jDemo - Attempting login with email:jennysenthil123@gmail.com
+[INFO ] 2026-04-22 14:17:31.873 [TestNG-PoolService-1] Log4jDemo - Browser closed for an email.
+[DEBUG] 2026-04-22 14:19:32.247 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 14:19:32.251 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 14:19:32.253 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 14:19:32.254 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2026-04-22 14:19:41.696 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 14:19:41.697 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 14:19:41.697 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 14:19:41.698 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2026-04-22 14:19:48.312 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 14:19:48.312 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 14:19:48.313 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 14:19:48.314 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2026-04-22 14:19:50.973 [TestNG-PoolService-1] Log4jDemo - Launching browser & Navigating to tutoriols ninja
+[INFO ] 2026-04-22 14:19:51.023 [TestNG-PoolService-2] Log4jDemo - Launching browser & Navigating to tutoriols ninja
+[WARN ] 2026-04-22 14:19:53.283 [TestNG-PoolService-2] Log4jDemo - Login failed for email:senthiljenny2gmail.com
+[INFO ] 2026-04-22 14:19:53.466 [TestNG-PoolService-2] Log4jDemo - Browser closed for an email.
+[WARN ] 2026-04-22 14:19:53.482 [TestNG-PoolService-1] Log4jDemo - Login failed for email:jennysenthil123@gmail
+[INFO ] 2026-04-22 14:19:53.643 [TestNG-PoolService-1] Log4jDemo - Browser closed for an email.
+[INFO ] 2026-04-22 14:19:56.201 [main] Log4jDemo - Launching browser & Navigating to tutoriols ninja
+[INFO ] 2026-04-22 14:19:56.746 [main] Log4jDemo - Browser closed for an email.
+[INFO ] 2026-04-22 14:19:59.138 [main] Log4jDemo - Launching browser & Navigating to tutoriols ninja
+[INFO ] 2026-04-22 14:19:59.820 [main] Log4jDemo - Browser closed for an email.
+[DEBUG] 2026-04-22 14:19:59.825 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 14:19:59.826 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 14:19:59.827 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 14:19:59.827 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2026-04-22 14:20:03.133 [TestNG-PoolService-1] Log4jDemo - Launching browser & Navigating to tutoriols ninja
+[INFO ] 2026-04-22 14:20:12.222 [TestNG-PoolService-1] Log4jDemo - Attempting login with email:jennysenthil123@gmail.com
+[INFO ] 2026-04-22 14:20:12.392 [TestNG-PoolService-1] Log4jDemo - Browser closed for an email.
+[DEBUG] 2026-04-22 14:20:52.498 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 14:20:52.504 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 14:20:52.506 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 14:20:52.507 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2026-04-22 14:21:06.965 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 14:21:06.967 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 14:21:06.967 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 14:21:06.968 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2026-04-22 14:21:11.303 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 14:21:11.304 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 14:21:11.304 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 14:21:11.305 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2026-04-22 14:21:14.176 [TestNG-PoolService-2] Log4jDemo - Launching browser & Navigating to tutoriols ninja
+[INFO ] 2026-04-22 14:21:14.190 [TestNG-PoolService-1] Log4jDemo - Launching browser & Navigating to tutoriols ninja
+[WARN ] 2026-04-22 14:21:16.722 [TestNG-PoolService-2] Log4jDemo - Login failed for email:senthiljenny2gmail.com
+[INFO ] 2026-04-22 14:21:16.924 [TestNG-PoolService-2] Log4jDemo - Browser closed for an email.
+[WARN ] 2026-04-22 14:21:17.002 [TestNG-PoolService-1] Log4jDemo - Login failed for email:jennysenthil123@gmail
+[INFO ] 2026-04-22 14:21:17.143 [TestNG-PoolService-1] Log4jDemo - Browser closed for an email.
+[INFO ] 2026-04-22 14:21:19.441 [main] Log4jDemo - Launching browser & Navigating to tutoriols ninja
+[INFO ] 2026-04-22 14:21:20.079 [main] Log4jDemo - Browser closed for an email.
+[INFO ] 2026-04-22 14:21:22.352 [main] Log4jDemo - Launching browser & Navigating to tutoriols ninja
+[INFO ] 2026-04-22 14:21:22.943 [main] Log4jDemo - Browser closed for an email.
+[DEBUG] 2026-04-22 14:21:22.949 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 14:21:22.950 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 14:21:22.951 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 14:21:22.952 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2026-04-22 14:21:25.318 [TestNG-PoolService-1] Log4jDemo - Launching browser & Navigating to tutoriols ninja
+[INFO ] 2026-04-22 14:21:25.941 [TestNG-PoolService-1] Log4jDemo - Attempting login with email:jennysenthil123@gmail.com
+[INFO ] 2026-04-22 14:21:26.824 [TestNG-PoolService-1] Log4jDemo - Browser closed for an email.
+[DEBUG] 2026-04-22 14:33:43.295 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 14:33:43.299 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 14:33:43.301 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 14:33:43.301 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2026-04-22 14:33:50.614 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 14:33:50.616 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 14:33:50.617 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 14:33:50.618 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2026-04-22 14:34:38.657 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 14:34:38.664 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 14:34:38.668 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 14:34:38.671 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2026-04-22 14:34:45.498 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 14:34:45.499 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 14:34:45.500 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 14:34:45.500 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2026-04-22 14:35:23.744 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 14:35:23.754 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 14:35:23.757 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 14:35:23.760 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2026-04-22 14:35:31.262 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 14:35:31.263 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 14:35:31.264 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 14:35:31.265 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2026-04-22 15:03:04.668 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 15:03:04.675 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 15:03:04.682 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 15:03:04.683 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2026-04-22 15:03:24.929 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 15:03:24.931 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 15:03:24.931 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 15:03:24.932 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2026-04-22 15:08:39.470 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 15:08:39.475 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 15:08:39.477 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 15:08:39.479 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2026-04-22 15:08:44.275 [TestNG-PoolService-2] TutorialNinjaDemo - Launching browser & Navigating to tutoriols ninja
+[INFO ] 2026-04-22 15:08:44.648 [TestNG-PoolService-1] TutorialNinjaDemo - Launching browser & Navigating to tutoriols ninja
+[WARN ] 2026-04-22 15:08:49.714 [TestNG-PoolService-1] TutorialNinjaDemo - Login failed for email:jennysenthil123@gmail
+[INFO ] 2026-04-22 15:08:51.046 [TestNG-PoolService-1] TutorialNinjaDemo - Browser closed for an email.
+[WARN ] 2026-04-22 15:08:51.341 [TestNG-PoolService-2] TutorialNinjaDemo - Login failed for email:senthiljenny2gmail.com
+[INFO ] 2026-04-22 15:08:51.814 [TestNG-PoolService-2] TutorialNinjaDemo - Browser closed for an email.
+[DEBUG] 2026-04-22 15:08:51.844 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 15:08:51.846 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 15:08:51.847 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 15:08:51.847 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2026-04-22 15:08:54.729 [TestNG-PoolService-1] TutorialNinjaDemo - Launching browser & Navigating to tutoriols ninja
+[INFO ] 2026-04-22 15:08:56.344 [TestNG-PoolService-1] TutorialNinjaDemo - Attempting login with email:jennysenthil123@gmail.com
+[INFO ] 2026-04-22 15:08:57.492 [TestNG-PoolService-1] TutorialNinjaDemo - Browser closed for an email.
+[DEBUG] 2026-04-22 15:59:32.234 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 15:59:32.241 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 15:59:32.244 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 15:59:32.246 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2026-04-22 15:59:36.675 [TestNG-PoolService-1] TutorialNinjaDemo - Launching browser & Navigating to tutoriols ninja
+[INFO ] 2026-04-22 15:59:36.881 [TestNG-PoolService-2] TutorialNinjaDemo - Launching browser & Navigating to tutoriols ninja
+[WARN ] 2026-04-22 15:59:42.141 [TestNG-PoolService-1] TutorialNinjaDemo - Login failed for email:jennysenthil123@gmail
+[INFO ] 2026-04-22 15:59:42.682 [TestNG-PoolService-1] TutorialNinjaDemo - Browser closed for an email.
+[WARN ] 2026-04-22 15:59:43.382 [TestNG-PoolService-2] TutorialNinjaDemo - Login failed for email:senthiljenny2gmail.com
+[INFO ] 2026-04-22 15:59:43.810 [TestNG-PoolService-2] TutorialNinjaDemo - Browser closed for an email.
+[INFO ] 2026-04-22 15:59:46.613 [main] TutorialNinjaDemo - Launching browser & Navigating to tutoriols ninja
+[INFO ] 2026-04-22 15:59:47.836 [main] TutorialNinjaDemo - Browser closed for an email.
+[INFO ] 2026-04-22 15:59:49.994 [main] TutorialNinjaDemo - Launching browser & Navigating to tutoriols ninja
+[INFO ] 2026-04-22 15:59:51.772 [main] TutorialNinjaDemo - Browser closed for an email.
+[DEBUG] 2026-04-22 15:59:51.780 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-22 15:59:51.780 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2026-04-22 15:59:51.781 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2026-04-22 15:59:51.782 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2026-04-22 15:59:53.956 [TestNG-PoolService-1] TutorialNinjaDemo - Launching browser & Navigating to tutoriols ninja
+[INFO ] 2026-04-22 15:59:55.362 [TestNG-PoolService-1] TutorialNinjaDemo - Attempting login with email:jennysenthil123@gmail.com
+[INFO ] 2026-04-22 15:59:59.310 [TestNG-PoolService-1] TutorialNinjaDemo - Browser closed for an email.

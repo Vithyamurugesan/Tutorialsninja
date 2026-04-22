@@ -5,8 +5,10 @@
     <classes>
       <class name="com.tests.TutorialNinjaDemo">
         <methods>
+          <include name="searchInvalidProduct"/>
           <include name="setup"/>
-          <include name="validLogin"/>
+          <include name="tearDown"/>
+          <include name="searchValidProduct"/>
         </methods>
       </class> <!-- com.tests.TutorialNinjaDemo -->
     </classes>

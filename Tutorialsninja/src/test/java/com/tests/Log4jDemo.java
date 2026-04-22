@@ -20,9 +20,9 @@ import org.testng.annotations.Test;
 
 import com.utilities.DPExcel;
 
-public class TutorialNinjaDemo {
+public class Log4jDemo {
 	
-	public static Logger log=LogManager.getLogger(TutorialNinjaDemo.class);
+	public static Logger log=LogManager.getLogger(Log4jDemo.class);
 	
 	
 	public static ThreadLocal<WebDriver> driver=new ThreadLocal<>();
@@ -105,8 +105,3 @@ public class TutorialNinjaDemo {
 	        driver.remove();      
 	}
 }
-	
-	
-	
-	
-  

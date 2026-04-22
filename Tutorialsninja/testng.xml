@@ -2,8 +2,11 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Suite">
   <test thread-count="5" name="Test">
+  <parameter name="search" value="mac"></parameter>
+  <parameter name="invalidsearch" value="xyz123"></parameter>
     <classes>
-      <class name="tutorialsninja.TutorialNinjaDemo"/>
+      <class name="com.tests.TutorialNinjaDemo"/>
+   
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
